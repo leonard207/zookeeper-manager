@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/leonard207/zookeeper-manager.svg?branch=master)](https://travis-ci.org/leonard207/zookeeper-manager)
+# zookeeper-manager [![Build Status](https://travis-ci.org/leonard207/zookeeper-manager.svg?branch=master)](https://travis-ci.org/leonard207/zookeeper-manager)
 ## 项目说明
 
 这是一个维护zookeeper 信息的项目
